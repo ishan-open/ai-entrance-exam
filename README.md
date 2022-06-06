@@ -1,2 +1,2 @@
-# ai-entrance-exam
+# ع ai-entrance-exam
 کارآموزی هوش مصنوعی
