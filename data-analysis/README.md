@@ -52,7 +52,7 @@ D --> E(" فایل متن نهایی جمله بندی شده")
 </details>
       
 <details dir="rtl" >
-    <summary> <h3>خطای قابل قبول<h3></summary> 
+    <summary> <h3>خطای متعارف<h3></summary> 
 
 
 
